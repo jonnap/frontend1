@@ -1,5 +1,8 @@
 
-
+* {
+    margin: 0px;
+    padding: 0px;
+}
 
 header div img { 
     display: block;
@@ -25,17 +28,53 @@ h1 {
 h2 {
 color:#005677;
 background-color:#C4C4C4;
-word-spacing: px;
 letter-spacing: 5px;
 }
 
 li.primer { 
     list-style-type: disc;
-     ;
+    margin-left: 15px;
     }
 
 li span { font-style: italic;
               font-weight: bold;
                                   }
                                   
-                                  
+ li.lista-años {
+     list-style-type: none;
+    
+ }                                 
+
+ span.lista-años {
+     font-weight: bold;
+ }
+
+ .espaciado {
+     margin-left: 80px;
+     list-style-type:none;
+ }
+
+footer {
+    position: absolute ;   
+    width: 1440px;
+    height: 37px;
+    left: 0px;
+    top: 987px;
+    background: #005677;
+}
+
+.footer { 
+    left: 601px;
+    top: 998px;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: white; 
+    text-align: center;
+    word-spacing: 10px;
+    align-items: center;
+    display: block;
+    margin: auto;
+    }
+
