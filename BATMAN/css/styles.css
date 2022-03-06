@@ -1,0 +1,41 @@
+
+
+
+header div img { 
+    display: block;
+    margin: auto;
+    
+}
+
+header { background-color: #E6E6E6;}
+
+h1 {
+    text-align: center;
+    color : #005677;
+    background-color: #C4C4C4; 
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 84.69%;
+    word-spacing: 5px;
+    letter-spacing: 11px;
+}
+
+h2 {
+color:#005677;
+background-color:#C4C4C4;
+word-spacing: px;
+letter-spacing: 5px;
+}
+
+li.primer { 
+    list-style-type: disc;
+     ;
+    }
+
+li span { font-style: italic;
+              font-weight: bold;
+                                  }
+                                  
+                                  
